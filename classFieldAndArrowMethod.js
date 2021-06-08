@@ -1,1 +1,0 @@
-https://javascriptweblog.wordpress.com/2015/11/02/of-classes-and-arrow-functions-a-cautionary-tale/#:~:text=Arrow%20functions%20aren't%20methods,properties%20in%20entirely%20different%20ways.
